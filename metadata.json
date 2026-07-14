@@ -1,0 +1,6 @@
+{
+  "name": "Context Pruner",
+  "description": "Secure the ultimate premium brand for AI prompt compression and cost optimization: contextpruner.com.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
